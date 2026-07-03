@@ -1,0 +1,6 @@
+{
+  "name": "SuperTac Predictions",
+  "description": "منصة متقدمة لتحليل وتوقعات مباريات كرة القدم مع لوحة تحكم لإدارة المحتوى ونظام اشتراكات VIP آمن.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
